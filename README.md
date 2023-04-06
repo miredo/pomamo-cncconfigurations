@@ -1,2 +1,5 @@
-# pomamo-cncconfigurations
-Cnc configurations for Pomamo
+# Pomamo Cnc configurations
+
+## Overview
+
+Set of configurations for Pomamo.
